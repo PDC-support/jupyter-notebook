@@ -1,0 +1,1101 @@
+    82.500    -62.333   Alert
+    81.600    -16.667   Nord
+    79.983    -85.933   Eureka
+    78.917     11.933   Ny-Ålesund
+    78.217     15.650   Longyearbyen
+    77.467    -69.233   Qaanaaq
+    76.417    -82.900   Grise Fiord
+    73.500     80.517   Dikson
+    72.783    -56.150   Upernavik
+    71.650    128.867   Tiksi
+    71.533     52.317   Belushya Guba
+    71.300   -156.767   Barrow
+    70.983     25.983   Honningsvåg
+    70.667     23.683   Hammerfest
+    70.200   -148.517   Deadhorse
+    70.083     27.883   Nuorgam
+    70.083     29.733   Vadsø
+    69.967     23.267   Alta
+    69.900     27.017   Utsjoki
+    69.717     30.033   Kirkenes
+    69.683     18.950   Tromsø
+    69.450   -133.033   Tuktoyaktuk
+    69.333     88.217   Norilsk
+    68.967     33.083   Murmansk
+    68.783     16.533   Harstad
+    68.417     17.567   Narvik
+    68.350   -133.717   Inuvik
+    67.850     20.217   Kiruna
+    67.550    133.383   Verkhoyansk
+    67.300     14.550   Bodø
+    67.133     20.667   Gällivare
+    66.717     27.433   Kemijärvi
+    66.500     25.733   Rovaniemi
+    66.083    -23.133   Ísafjörður
+    65.967     29.183   Kuusamo
+    65.850     24.150   Tornio
+    65.833     21.717   Boden
+    65.833     24.133   Haparanda
+    65.733     24.567   Kemi
+    65.683    -18.100   Akureyri
+    65.583     22.150   Luleå
+    65.367     27.000   Pudasjärvi
+    65.333     21.500   Piteå
+    65.017     25.467   Oulu
+    64.850   -147.717   Fairbanks
+    64.750     20.950   Skellefteå
+    64.733    177.517   Anadyr
+    64.533     40.533   Arkhangelsk
+    64.500   -165.383   Nome
+    64.183    -51.733   Nuuk (Godthåb)
+    64.133    -21.933   Reykjavík
+    63.833     20.267   Umeå
+    63.750    -68.517   Iqaluit
+    63.483     11.167   Stjørdalshalsen
+    63.433     10.400   Trondheim
+    63.283     18.733   Örnsköldsvik
+    63.183     14.667   Östersund
+    63.100     21.617   Vaasa
+    62.900     27.683   Kuopio
+    62.467      6.150   Ålesund
+    62.450   -114.400   Yellowknife
+    62.400     17.317   Sundsvall
+    62.250     25.750   Jyväskylä
+    62.033    129.733   Yakutsk
+    62.017     -6.767   Tórshavn
+    61.783    -34.333   Petrozavodsk
+    61.500     23.767   Tampere
+    61.217   -149.900   Anchorage
+    61.133     10.433   Lillehammer
+    60.983     25.650   Lahti
+    60.717    -46.033   Qaqortoq
+    60.717   -135.050   Whitehorse
+    60.450     22.267   Turku
+    60.383      5.333   Bergen
+    60.300     25.033   Vantaa
+    60.250     -1.250   Lerwick
+    60.200     24.650   Espoo
+    60.167     24.933   Helsinki
+    59.950     10.750   Oslo
+    59.950     30.300   Saint Petersburg
+    59.850     17.650   Uppsala
+    59.767   -151.217   Fritz Creek
+    59.567    150.800   Magadan
+    59.433     24.750   Tallinn
+    59.333     18.067   Stockholm
+    59.283     11.200   Sarpsborg
+    59.267     15.200   Örebro
+    59.217     39.900   Vologda
+    58.600     16.200   Norrköping
+    58.400     15.617   Linköping
+    58.383     26.717   Tartu
+    58.300   -134.417   Juneau
+    58.483      8.783   Arendal
+    58.167      8.000   Kristiansand
+    58.000     56.317   Perm
+    57.767     26.033   Valga
+    57.700     11.967   Gothenburg
+    57.633     18.283   Visby
+    57.617     39.850   Yaroslavl
+    57.467     -4.233   Inverness
+    57.150     -2.117   Aberdeen
+    57.050   -135.333   Sitka
+    56.950     24.100   Riga
+    56.833     53.183   Izhevsk
+    56.833     60.583   Yekaterinburg
+    56.733   -111.383   Fort McMurray
+    56.467     -2.967   Dundee
+    56.333     44.000   Nizhny Novgorod
+    56.150     -3.933   Stirling
+    56.117    101.600   Bratsk
+    56.150     10.217   Aarhus
+    56.017     93.067   Krasnoyarsk
+    55.950     -3.183   Edinburgh
+    55.850     -4.267   Glasgow
+    55.783     49.133   Kazan
+    55.750     37.617   Moscow
+    55.683     12.567   Copenhagen
+    55.583     13.033   Malmö
+    55.483      8.450   Esbjerg
+    55.400     10.383   Odense
+    55.167   -118.800   Grande Prairie
+    55.150     61.383   Chelyabinsk
+    55.017     82.933   Novosibirsk
+    55.000     -7.300   Derry
+    54.983     73.367   Omsk
+    54.967     -1.617   Newcastle upon Tyne
+    54.900     -1.383   Sunderland
+    54.883     69.167   Petropavl
+    54.783      9.433   Flensburg
+    54.750     55.967   Ufa
+    54.717     20.517   Kaliningrad
+    54.683     25.283   Vilnius
+    54.600     -5.933   Belfast
+    54.567     -1.233   Middlesbrough
+    54.500     18.550   Gdynia
+    54.367     18.633   Gdańsk
+    54.333     10.133   Kiel
+    54.150     -4.483   Douglas
+    54.083     12.133   Rostock
+    54.050     -2.800   Lancaster
+    53.967     -1.083   York
+    53.917   -122.733   Prince George
+    53.900     27.567   Minsk
+    53.800     -1.750   Bradford
+    53.800     -1.550   Leeds
+    53.567     10.000   Hamburg
+    53.533   -113.500   Edmonton
+    53.517     49.417   Tolyatti
+    53.467     -2.233   Manchester
+    53.400     -2.983   Liverpool
+    53.383     -1.467   Sheffield
+    53.350     -6.267   Dublin
+    53.217      6.550   Groningen
+    53.200     50.133   Samara
+    53.083      8.800   Bremen
+    53.017    158.650   Petropavlovsk-Kamchatsky
+    52.950     -1.133   Nottingham
+    52.917     -1.467   Derby
+    52.633     -1.133   Leicester
+    52.633      1.300   Norwich
+    52.583     -0.250   Peterborough
+    52.517     13.383   Berlin
+    52.483     -1.900   Birmingham
+    52.433     30.983   Gomel
+    52.400     -1.517   Coventry
+    52.400     16.917   Poznań
+    52.383      4.633   Haarlem
+    52.367      4.900   Amsterdam
+    52.367      9.717   Hannover
+    52.317    104.300   Irkutsk
+    52.233     21.017   Warsaw
+    52.217      6.900   Enschede
+    52.200      0.117   Cambridge
+    52.167      4.483   Leiden
+    52.133   -106.683   Saskatoon
+    52.100      5.117   Utrecht
+    52.083      4.317   The Hague
+    51.950      7.617   Münster
+    51.933      4.483   Rotterdam
+    51.900     -8.467   Cork
+    51.883   -176.650   Adak
+    51.867     -2.233   Gloucester
+    51.750     -1.250   Oxford
+    51.667     39.217   Voronezh
+    51.617     -3.950   Swansea
+    51.533     46.017   Saratov
+    51.517      7.467   Dortmund
+    51.500     -0.133   London
+    51.483     -3.183   Cardiff
+    51.483     -0.000   Greenwich
+    51.450     -2.583   Bristol
+    51.383     -2.367   Bath
+    51.333     12.383   Leipzig
+    51.233      6.783   Düsseldorf
+    51.217      4.400   Antwerp
+    51.167     71.433   Astana
+    51.100      1.500   Winchester
+    51.050   -114.067   Calgary
+    51.050      3.733   Ghent
+    51.033     13.733   Dresden
+    50.983     11.033   Erfurt
+    50.950      1.850   Calais
+    50.933      6.967   Cologne
+    50.900     -1.400   Southampton
+    50.850      5.683   Maastricht
+    50.850      4.350   Brussels
+    50.833     -0.150   Brighton and Hove
+    50.817     -1.083   Portsmouth
+    50.717     -3.533   Exeter
+    50.683   -120.333   Kamloops
+    50.633      3.050   Lille
+    50.450   -104.600   Regina
+    50.450     30.517   Kiev
+    50.400      4.433   Charleroi
+    50.367     -4.150   Plymouth
+    50.117      8.683   Frankfurt am Main
+    50.083     14.417   Prague
+    50.067     19.933   Kraków
+    50.000     36.233   Kharkiv
+    49.900    -97.133   Winnipeg
+    49.883   -119.500   Kelowna
+    49.850     24.017   Lviv
+    49.617      6.117   Luxembourg
+    49.483      0.100   Le Havre
+    49.450     11.083   Nuremberg
+    49.433      1.100   Rouen
+    49.250   -123.100   Vancouver
+    48.850      2.350   Paris
+    48.783      9.183   Stuttgart
+    48.750   -122.483   Bellingham
+    48.700     44.517   Volgograd
+    48.583      7.750   Strasbourg
+    48.400     34.983   Dnipro
+    48.433   -123.367   Victoria
+    48.417    -71.067   Saguenay
+    48.383     -4.483   Brest
+    48.383    -89.250   Thunder Bay
+    48.300     14.283   Linz
+    48.217     16.367   Vienna
+    48.150     17.117   Bratislava
+    48.133     11.567   Munich
+    48.000     37.800   Donetsk
+    47.917    106.917   Ulaanbaatar
+    47.900      1.917   Orléans
+    47.800     13.033   Salzburg
+    47.617   -122.333   Seattle
+    47.567    -52.700   St. John's
+    47.567      7.600   Basel
+    47.467     19.050   Budapest
+    47.433    123.450   Qiqihar
+    47.367      8.550   Zürich
+    47.267     11.383   Innsbruck
+    47.233     39.700   Rostov-on-Don
+    47.217     -1.550   Nantes
+    47.133      9.517   Vaduz
+    47.117     51.883   Atyrau
+    47.067     15.433   Graz
+    47.000     28.917   Chişinău
+    46.950      7.450   Bern
+    46.850     29.633   Tiraspol
+    46.817    -71.217   Quebec City
+    46.817   -100.783   Bismarck
+    46.800    -92.100   Duluth
+    46.783    -56.183   Saint-Pierre
+    46.767     23.583   Cluj-Napoca
+    46.733   -117.000   Moscow
+    46.600   -112.033   Helena
+    46.533    -84.350   Sault Ste. Marie
+    46.517      6.633   Lausanne
+    46.483    -81.017   Sudbury
+    46.467     30.733   Odessa
+    46.300    -79.450   North Bay
+    46.233    -63.150   Charlottetown
+    46.200      6.150   Geneva
+    46.133    -64.767   Moncton
+    46.050     14.517   Ljubljana
+    45.950    -66.667   Fredericton
+    45.817     15.983   Zagreb
+    45.767      4.850   Lyon
+    45.750    126.633   Harbin
+    45.600    -62.650   New Glasgow
+    45.517   -122.683   Portland
+    45.500    -73.567   Montreal
+    45.467      9.183   Milan
+    45.433     12.333   Venice
+    45.417    -75.683   Ottawa
+    45.417    141.667   Wakkanai
+    45.283    -66.083   Saint John
+    45.250     19.850   Novi Sad
+    45.067      7.700   Turin
+    45.033     38.967   Krasnodar
+    44.983    -93.267   Minneapolis
+    44.950     34.100   Simferopol
+    44.850    -63.200   Halifax
+    44.833     -0.583   Bordeaux
+    44.817     20.467   Belgrade
+    44.750     19.700   Šabac
+    44.633     22.650   Drobeta Turnu Severin
+    44.500     11.350   Bologna
+    44.433     26.100   Bucharest
+    44.417     12.200   Ravenna
+    44.400      8.917   Genoa
+    44.367   -100.333   Pierre
+    44.333     23.817   Craiova
+    44.317    -69.783   Augusta
+    44.250    -72.567   Montpelier
+    43.917    -69.817   Bath
+    43.933     12.450   San Marino
+    43.900    125.200   Changchun
+    43.850     18.350   Sarajevo
+    43.833    -66.117   Yarmouth
+    43.833     87.600   Ürümqi
+    43.783     11.250   Florence
+    43.767    142.367   Asahikawa
+    43.733      7.417   Monaco
+    43.700      7.267   Nice
+    43.700    -79.400   Toronto
+    43.617   -116.200   Boise
+    43.600      1.450   Toulouse
+    43.583     39.717   Sochi
+    43.550      7.017   Cannes
+    43.533     -5.650   Gijón
+    43.533    -96.717   Sioux Falls
+    43.500     16.433   Split
+    43.350     -5.833   Oviedo
+    43.333    145.583   Nemuro
+    43.317     -2.000   San Sebastián
+    43.300      5.367   Marseille
+    43.283     76.900   Almaty
+    43.250     -2.917   Bilbao
+    43.200    -71.533   Concord
+    43.167    -77.617   Rochester
+    43.133    131.900   Vladivostok
+    43.067    141.350   Sapporo
+    43.050    -87.950   Milwaukee
+    43.000     41.017   Sukhumi
+    42.983    144.383   Kushiro
+    42.983    -81.250   London
+    42.933     10.767   Follonica
+    42.917    143.200   Obihiro
+    42.900    -78.850   Buffalo
+    42.883     -8.533   Santiago de Compostela
+    42.867     74.617   Bishkek
+    42.850     -2.683   Vitoria-Gasteiz
+    42.700     23.333   Sofia
+    42.667     21.167   Pristina
+    42.500      1.500   Andorra la Vella
+    42.467     59.600   Nukus
+    42.433     19.267   Podgorica
+    42.350    -71.067   Boston
+    42.333    -83.050   Detroit
+    42.283    -83.000   Windsor
+    42.233     -8.717   Vigo
+    42.233     43.967   Tskhinvali
+    42.033     13.417   Avezzano
+    42.000     21.433   Skopje
+    41.983    -82.933   Colchester
+    41.900     12.500   Rome
+    41.900     12.450   Vatican City
+    41.883    -87.633   Chicago
+    41.817    -71.417   Providence
+    41.800    123.400   Shenyang
+    41.800    129.783   Chongjin
+    41.767    -72.667   Hartford
+    41.767    140.733   Hakodate
+    41.717     44.783   Tbilisi
+    41.667     -4.717   Valladolid
+    41.650     -0.883   Zaragoza
+    41.583    -93.617   Des Moines
+    41.550     -8.417   Braga
+    41.483    -81.667   Cleveland
+    41.383      2.183   Barcelona
+    41.333     19.817   Tirana
+    41.267     69.217   Tashkent
+    41.167     -8.617   Porto
+    41.150   -104.800   Cheyenne
+    41.117     16.867   Bari
+    41.083    -85.133   Fort Wayne
+    41.017     28.950   Istanbul
+    41.000     39.733   Trabzon
+    41.000     71.667   Namangan
+    40.850     14.267   Naples
+    40.817    140.750   Aomori
+    40.817    -96.683   Lincoln
+    40.800   -124.150   Eureka
+    40.750   -111.883   Salt Lake City
+    40.717    -74.067   Jersey City
+    40.667    -73.933   New York City
+    40.650     22.900   Thessaloniki
+    41.617      0.633   Lleida
+    40.450    -80.000   Pittsburgh
+    40.400     49.883   Baku
+    40.383     -3.717   Madrid
+    40.217    -74.767   Trenton
+    40.183     29.050   Bursa
+    40.183     44.517   Yerevan
+    40.017   -105.283   Boulder
+    39.983    -82.983   Columbus
+    39.933     32.867   Ankara
+    39.950    -75.167   Philadelphia
+    39.917    116.383   Beijing
+    39.817     46.750   Stepanakert
+    39.800    -74.100   Forked River
+    39.783     30.517   Eskisehir
+    39.767    -86.150   Indianapolis
+    39.733   -104.983   Denver
+    39.717    140.117   Akita
+    39.683    141.150   Morioka
+    39.567      2.650   Palma
+    39.533   -119.817   Reno
+    39.467    -31.233   Flores Island
+    39.467     -0.383   Valencia
+    39.283    -76.617   Baltimore
+    39.250      9.050   Cagliari
+    39.167    -75.533   Dover
+    39.150    127.450   Wonsan
+    39.133    117.183   Tianjin
+    39.100    -84.517   Cincinnati
+    39.100    -94.583   Kansas City
+    39.017    125.733   Pyongyang
+    38.983      1.433   Ibiza
+    38.917    121.633   Dalian
+    38.900    -77.033   Washington
+    38.717     -9.133   Lisbon
+    38.633    -90.200   St. Louis
+    38.583    -28.717   Horta
+    38.550   -121.467   Sacramento
+    38.533     68.783   Dushanbe
+    38.483    -27.217   Angra do Heroísmo
+    38.467     23.600   Halkida
+    38.433     27.150   İzmir
+    38.350    -81.633   Charleston
+    38.333     -0.467   Alicante
+    38.267    140.867   Sendai
+    38.250    -85.767   Louisville
+    38.250    140.333   Yamagata
+    38.183     15.550   Messina
+    38.117     13.367   Palermo
+    38.067     46.300   Tabriz
+    38.050    114.500   Shijiazhuang
+    38.017     12.500   Trapani
+    37.967     23.717   Athena
+    37.967    126.550   Kaesong
+    37.933     58.367   Ashgabat
+    37.917    139.033   Niigata
+    37.867    112.567   Taiyuan
+    37.867     32.483   Konya
+    37.817    -25.750   Ponta Delgada
+    37.800   -122.267   Oakland
+    37.783   -122.417   San Francisco
+    37.767    140.467   Fukushima
+    37.683    -97.333   Wichita
+    37.567    126.983   Seoul
+    37.333   -121.883   San Jose
+    37.500     15.083   Catania
+    37.483    126.633   Incheon
+    37.383     -5.983   Sevilla
+    37.217     28.367   Mugla
+    37.200    -93.283   Springfield
+    37.067     37.383   Gaziantep
+    37.000     35.317   Adana
+    36.850    -75.983   Virginia Beach
+    36.833     -2.467   Almería
+    36.800     10.183   Tunis
+    36.800     34.633   Mersin
+    36.767      3.217   Algiers
+    36.717     -4.417   Málaga
+    36.700    137.217   Toyama
+    36.667    116.983   Jinan
+    36.633    138.183   Nagano
+    36.633    101.767   Xining
+    36.600    114.483   Handan
+    36.567    136.650   Kanazawa
+    36.550    139.883   Utsunomiya
+    36.383    139.067   Maebashi
+    36.367    140.467   Mito
+    36.333     43.133   Mosul
+    36.300     59.600   Mashhad
+    36.183     44.017   Arbil
+    36.183   -115.133   Las Vegas
+    36.167    -86.783   Nashville
+    36.133     -5.350   Gibraltar
+    36.133    -95.933   Tulsa
+    36.067    136.217   Fukui
+    36.067    120.383   Qingdao
+    36.033    103.800   Lanzhou
+    35.967    -83.950   Knoxville
+    35.900     14.517   Valletta
+    35.900     14.467   Birkirkara
+    35.883   -106.300   Los Alamos
+    35.867    128.600   Daegu
+    35.850    139.633   Saitama
+    35.817    -78.650   Raleigh
+    35.767     -5.800   Tangier
+    35.700     51.417   Tehran
+    35.683    139.700   Tokyo
+    35.667   -105.967   Santa Fe
+    35.667    138.567   Kōfu
+    35.600    140.100   Chiba
+    35.517     35.783   Latakia
+    35.517    139.700   Kawasaki
+    35.500    134.233   Tottori
+    35.483    -97.533   Oklahoma City
+    35.467    133.050   Matsue
+    35.467     44.317   Kirkuk
+    35.450    139.633   Yokohama
+    35.417    136.767   Gifu
+    35.367      1.317   Tiaret
+    35.333     25.133   Heraklion
+    35.283     -2.933   Melilla
+    35.233    -80.850   Charlotte
+    35.183    136.900   Nagoya
+    35.183    129.083   Busan
+    35.167     33.367   Nicosia
+    35.117    -89.967   Memphis
+    35.117   -106.617   Albuquerque
+    35.017    135.850   Ōtsu
+    35.017    135.767   Kyoto
+    34.983    138.383   Shizuoka
+    34.767    113.650   Zhengzhou
+    34.733    -92.333   Little Rock
+    34.733     10.767   Sfax
+    34.717    136.500   Tsu
+    34.700    135.500   Osaka
+    34.683    135.200   Kōbe
+    34.683    135.800   Nara
+    34.650    133.917   Okayama
+    34.533     69.167   Kabul
+    34.433   -119.717   Santa Barbara
+    34.383    132.450   Hiroshima
+    34.350    134.050   Takamatsu
+    34.267    108.900   Xi'an
+    34.233    135.167   Wakayama
+    34.217    -77.917   Wilmington
+    34.183    131.467   Yamaguchi
+    34.083     49.683   Arak
+    34.083     74.783   Srinagar
+    34.067    134.550   Tokushima
+    34.050   -118.250   Los Angeles
+    34.033     -6.833   Rabat
+    34.017     71.583   Peshawar
+    34.000    -81.050   Columbia
+    33.950   -117.400   Riverside
+    33.883     35.517   Beirut
+    33.833    132.767   Matsuyama
+    33.750    -84.383   Atlanta
+    33.717     73.067   Islamabad
+    33.650    -86.817   Birmingham
+    33.600     73.033   Rawalpindi
+    33.583    130.400   Fukuoka
+    33.567    133.533   Kōchi
+    33.533     -7.583   Casablanca
+    33.517     36.300   Damascus
+    33.450   -112.067   Phoenix
+    33.567   -101.850   Lubbock
+    33.333     44.433   Baghdad
+    33.267    130.300   Saga
+    33.233    131.600   Ōita
+    32.900     13.183   Tripoli
+    32.783    -79.933   Charleston
+    32.783    -96.800   Dallas
+    32.783    129.867   Nagasaki
+    32.783    130.733   Kumamoto
+    32.717   -117.167   San Diego
+    32.667   -115.467   Mexicali
+    32.650    -16.917   Funchal
+    32.633   -115.550   El Centro
+    32.633     51.650   Isfahan
+    32.617     41.033   Karbala
+    32.567     75.967   Dalhousie
+    32.533   -117.033   Tijuana
+    32.467    -93.700   Shreveport
+    32.300    -90.183   Jackson
+    32.300    -64.783   Hamilton
+    32.217   -110.933   Tucson
+    32.117     20.067   Benghazi
+    32.067     34.783   Tel Aviv
+    32.050    118.767   Nanjing
+    32.000     44.367   Najaf
+    31.933     35.933   Amman
+    31.917    131.417   Miyazaki
+    31.900     35.200   Ramallah
+    31.850   -116.600   Ensenada
+    31.783   -106.417   El Paso
+    31.783     35.217   Jerusalem
+    31.733   -106.483   Ciudad Juárez
+    31.633     74.867   Amritsar
+    31.633     -8.017   Marrakech
+    31.617     65.717   Kandahar
+    31.600    130.550   Kagoshima
+    31.550     74.350   Lahore
+    31.517     34.450   Gaza
+    31.417     73.083   Faisalabad
+    31.250     32.283   Port Said
+    31.200     29.917   Alexandria
+    31.200    121.500   Shanghai
+    31.100     77.167   Shimla
+    30.917     75.850   Ludhiana
+    30.750     76.783   Chandigarh
+    30.700    -88.050   Mobile
+    30.667    104.067   Chengdu
+    30.583    114.283   Wuhan
+    30.500     47.817   Basra
+    30.433     -9.600   Agadir
+    30.333    -81.667   Jacksonville
+    30.250    -97.750   Austin
+    30.250    120.167   Hangzhou
+    30.200     71.467   Multan
+    30.050     31.233   Cairo
+    29.967    -90.050   New Orleans
+    29.967     32.550   Suez
+    29.767    -95.383   Houston
+    29.650     91.100   Lhasa
+    29.567    106.567   Chongqing
+    29.550     34.950   Eilat
+    29.417    -98.500   San Antonio
+    29.367     47.983   Kuwait City
+    29.267     88.883   Shigatse
+    29.100   -110.950   Hermosillo
+    28.633   -106.083   Chihuahua
+    28.617     77.217   New Delhi
+    28.467    -16.250   Santa Cruz de Tenerife
+    28.417    -81.300   Orlando
+    28.150    -15.417   Las Palmas de Gran Canaria
+    27.950    -82.467   Tampa
+    27.733    -97.400   Corpus Christi
+    27.733    -15.567   Maspalomas
+    27.700     85.333   Kathmandu
+    27.483     95.000   Dibrugarh
+    27.467     89.650   Thimphu
+    27.333     88.617   Gangtok
+    27.183     78.017   Agra
+    27.150    -13.200   El Aaiún
+    27.033     14.433   Sabha
+    26.933     75.817   Jaipur
+    26.850     80.950   Lucknow
+    26.717     88.433   Siliguri
+    26.633     92.800   Tezpur
+    26.467     80.333   Kanpur
+    26.283     50.200   Dammam
+    26.217    127.683   Naha
+    26.217     50.583   Manama
+    26.200     91.733   Guwahati
+    25.917    -97.483   Brownsville
+    25.783    -80.217   Miami
+    25.683     32.650   Luxor
+    25.667   -100.300   Monterrey
+    25.617     85.150   Patna
+    25.567     91.883   Shillong
+    25.533   -103.450   Torreón
+    25.317     79.633   Kulpahar
+    25.283     51.533   Doha
+    25.250     55.300   Dubai
+    25.383     68.367   Hyderabad
+    25.067    -77.333   Nassau
+    25.067    102.683   Kunming
+    25.033    121.633   Taipei
+    24.867     67.017   Karachi
+    24.800   -107.383   Culiacán
+    24.633     46.717   Riyadh
+    24.567    -81.783   Key West
+    24.467     39.600   Medina
+    24.467     54.367   Abu Dhabi
+    24.200     55.733   Al Ain
+    24.150    120.667   Taichung
+    24.017   -104.667   Durango
+    23.833     91.267   Agartala
+    23.700     90.383   Dhaka
+    23.617     58.600   Muscat
+    23.133    -82.383   Havana
+    23.133    113.267   Guangzhou
+    23.033     72.583   Ahmedabad
+    23.033    113.717   Dongguan
+    22.983    120.183   Tainan
+    22.883   -109.917   Cabo San Lucas
+    22.817    108.317   Nanning
+    22.633    120.267   Kaohsiung
+    22.567     88.367   Kolkata (Calcutta)
+    22.550    114.100   Shenzhen
+    22.367     91.800   Chittagong
+    22.283    114.167   Hong Kong
+    22.250    -97.867   Tampico
+    22.167    113.550   Macau
+    22.150   -100.850   San Luis Potosí
+    21.883   -102.300   Aguascalientes
+    21.550     39.167   Jeddah
+    21.467    -71.133   Cockburn Town
+    21.417     39.817   Mecca
+    21.317   -157.833   Honolulu
+    21.250     81.633   Raipur
+    21.167    -86.850   Cancún
+    21.167     72.833   Surat
+    21.133     79.083   Nagpur
+    21.117   -101.683   León
+    21.033    105.850   Hanoi
+    20.967    -89.617   Mérida
+    20.850    106.683   Hai Phong
+    20.717   -103.400   Zapopan
+    20.667   -105.267   Puerto Vallarta
+    20.667   -103.350   Guadalajara
+    20.583   -100.400   Querétaro
+    20.067    110.567   Haikou
+    20.017    -75.817   Santiago de Cuba
+    19.917     99.833   Chiang Rai
+    19.750     96.100   Naypyidaw
+    19.700   -155.083   Hilo
+    19.433    -99.133   
+    19.300    -81.383   George Town
+    19.183    -96.150   Veracruz
+    19.050    -98.217   Puebla
+    18.983     72.833   Mumbai
+    18.800     99.000   Chiang Mai
+    18.533    -72.333   Port-au-Prince
+    18.517     73.850   Pune
+    18.467    -69.950   Santo Domingo
+    18.450    -66.067   San Juan
+    18.433    -64.617   Road Town
+    18.350    -64.950   Charlotte Amalie
+    18.217    -63.050   The Valley
+    18.100    -15.950   Nouakchott
+    17.983    -76.800   Kingston
+    17.967    102.600   Vientiane
+    17.683     83.217   Visakhapatnam
+    17.500    -88.183   Belize City
+    17.417    102.750   Udon Thani
+    17.367     78.483   Hyderabad
+    17.300    -62.733   Basseterre
+    17.250    -88.767   Belmopan
+    17.117    -61.850   St. John's
+    17.017     54.083   Salalah
+    16.867    -99.883   Acapulco
+    16.800     96.150   Yangon
+    16.783     -3.017   Timbuktu
+    16.467    107.583   Huế
+    16.433    102.833   Khon Kaen
+    16.067    108.233   Da Nang
+    16.000    -61.733   Basse-Terre
+    15.650     32.483   Omdurman
+    15.633     32.533   Khartoum
+    15.350     44.200   Sana'a
+    15.333     38.933   Asmara
+    15.300    -61.383   Roseau
+    15.183    145.750   Saipan
+    15.183    108.883   Son My
+    14.983    102.100   Nakhon Ratchasima
+    14.917    -23.517   Praia
+    14.900    -92.267   Tapachula
+    14.833    -91.517   Quetzaltenango
+    14.783    -16.917   Thiès
+    14.700    -17.450   Dakar
+    14.633    121.033   Quezon City
+    14.617    -90.533   Guatemala City
+    14.600    -61.083   Fort-de-France
+    14.583    120.967   Manila
+    14.550    121.033   Makati
+    14.350    100.567   Ayutthaya
+    14.100    -87.217   Tegucigalpa
+    14.017    -60.983   Castries
+    13.750    100.467   Bangkok
+    13.683    -89.183   San Salvador
+    13.517      2.100   Niamey
+    13.517    144.833   Dededo
+    13.483    144.750   Hagåtña
+    13.450    -16.583   Banjul
+    13.433    -16.667   Serekunda
+    13.367    103.867   Siem Reap
+    13.267    -16.650   Brikama
+    13.150    -61.233   Kingstown
+    13.100    -59.617   Bridgetown
+    13.083     80.267   Chennai (Madras)
+    12.967     77.567   Bangalore
+    12.933    100.883   Pattaya
+    12.867     -7.567   Koulikoro
+    12.650     -8.000   Bamako
+    12.617    -87.150   Chinandega
+    12.517    -70.033   Oranjestad
+    12.350     -1.533   Ouagadougou
+    12.133    -86.250   Managua
+    12.117    -68.933   Willemstad
+    12.117     15.050   N'Djamena
+    12.050    -61.750   St. George's
+    12.000      8.517   Kano
+    11.850    -15.567   Bissau
+    11.667     92.767   Port Blair
+    11.583     43.150   Djibouti
+    11.550    104.917   Phnom Penh
+    11.183     -4.283   Bobo-Dioulasso
+    10.967    -74.800   Barranquilla
+    10.767    106.683   Ho Chi Minh City
+    10.717    122.567   Iloilo City
+    10.667    -61.517   Port of Spain
+    10.650    -71.633   Maracaibo
+    10.633    -85.433   Liberia
+    10.500    -66.917   Caracas
+    10.500    -61.383   Chaguanas
+    10.400    -75.500   Cartagena
+    10.283    -61.467   San Fernando
+    10.283    123.900   Cebu City
+    10.250    -67.600   Maracay
+    10.183    -68.000   Valencia
+    10.017    -84.217   Alajuela
+     9.983    -83.033   Limón
+     9.667     80.000   Jaffna
+     9.567     44.067   Hargeisa
+     9.967    -84.833   Puntarenas
+     9.967     76.283   Kochi
+     9.933    -84.083   San José
+     9.650    123.850   Tagbilaran
+     9.517    -13.717   Conakry
+     9.400     -0.850   Tamale
+     9.133     99.333   Surat Thani
+     9.067      7.483   Abuja
+     9.033     38.733   Addis Ababa
+     8.983    -79.517   Panama City
+     8.583    -71.133   Mérida
+     8.567     16.083   Moundou
+     8.483     76.950   Trivandrum
+     8.483    -13.233   Freetown
+     8.117    -63.550   Ciudad Bolívar
+     7.900    -72.500   Cúcuta
+     7.883     98.400   Phuket
+     7.750    -72.217   San Cristóbal
+     7.750     -8.817   Nzérékoré
+     7.717     81.700   Batticaloa
+     7.483    134.600   Melekeok
+     7.450    151.850   Weno
+     7.400      3.917   Ibadan
+     7.367    134.483   Koror
+     7.300     80.633   Kandy
+     7.067    171.267   Majuro
+     7.067    125.600   Davao City
+     7.017    100.467   Hat Yai
+     6.933     79.850   Colombo
+     6.917    158.167   Palikir
+     6.917     79.883   Sri Jayawardenapura-Kotte
+     6.900    122.067   Zamboanga City
+     6.817     -5.283   Yamoussoukro
+     6.800    -58.167   Georgetown
+     6.667     -1.617   Kumasi
+     6.500      2.600   Porto-Novo
+     6.450      3.400   Lagos
+     6.450      7.517   Enugu
+     6.367      2.433   Cotonou
+     6.317      5.600   Benin City
+     6.317    -10.800   Monrovia
+     6.233    -75.583   Medellín
+     6.133      1.217   Lomé
+     6.133    102.250   Kota Bharu
+     6.117    100.367   Alor Setar
+     5.967    116.100   Kota Kinabalu
+     5.867    -55.167   Paramaribo
+     5.667    -67.633   Puerto Ayacucho
+     5.550     -0.200   Accra
+     5.550     95.317   Banda Aceh
+     5.417    100.317   George Town
+     5.317     -4.033   Abidjan
+     4.917    -52.333   Cayenne
+     4.917     -1.767   Sekondi-Takoradi
+     4.883    114.950   Bandar Seri Begawan
+     4.850     31.600   Juba
+     4.750      7.000   Port Harcourt
+     4.600    101.067   Ipoh
+     4.600    -74.083   Bogotá
+     4.400    114.000   Miri
+     4.367     18.583   Bangui
+     4.183     73.517   Malé
+     4.050      9.700   Douala
+     3.867     11.517   Yaoundé
+     3.750      8.783   Malabo
+     3.583     98.667   Medan
+     3.417    -76.517   Santiago de Cali
+     3.150    101.700   Kuala Lumpur
+     2.817    -60.667   Boa Vista
+     2.200    102.250   Malacca Town
+     2.033     45.350   Mogadishu
+     1.567    110.350   Kuching
+     1.483    103.733   Johor Bahru
+     1.433    173.000   South Tarawa
+     1.283    103.833   Singapore
+     0.533    101.450   Pekanbaru
+     0.383      9.450   Libreville
+     0.333      6.683   São Tomé
+     0.317     32.583   Kampala
+     0.050     32.467   Entebbe
+     0.050     18.250   Mbandaka
+     0.033    -51.067   Macapá
+    -0.017    109.333   Pontianak
+    -0.250    -78.583   Quito
+    -0.350     42.550   Kismayo
+    -0.550    166.917   Yaren District
+    -0.950    100.350   Padang
+    -1.267    116.833   Balikpapan
+    -1.283     36.817   Nairobi
+    -1.450    -48.500   Belém
+    -1.950     30.067   Kigali
+    -2.183    -79.883   Guayaquil
+    -2.517     32.900   Mwanza
+    -2.533    -44.300   São Luís
+    -2.533    140.717   Jayapura
+    -2.983    104.750   Palembang
+    -3.100    -60.017   Manaus
+    -3.383     29.367   Bujumbura
+    -3.667    -40.233   Sobral
+    -3.700    128.167   Ambon
+    -3.717    -38.550   Fortaleza
+    -3.733    -73.250   Iquitos
+    -3.850    -32.417   Fernando de Noronha
+    -4.050     39.667   Mombasa
+    -4.267     15.300   Brazzaville
+    -4.333     15.317   Kinshasa
+    -4.617     55.450   Victoria
+    -5.100    -42.800   Teresina
+    -5.133    119.417   Makassar
+    -5.533    -47.483   Imperatriz
+    -5.783    -35.200   Natal
+    -6.167     39.200   Zanzibar City
+    -6.167     35.750   Dodoma
+    -6.200    106.800   Jakarta
+    -6.600    106.800   Bogor
+    -6.800     39.283   Dar es Salaam
+    -6.917    107.617   Bandung
+    -6.967    110.417   Semarang
+    -7.083    -34.833   João Pessoa
+    -7.200    -39.333   Juazeiro do Norte
+    -7.233    -35.883   Campina Grande
+    -7.267    112.750   Surabaya
+    -7.800    110.367   Yogyakarta
+    -7.983    112.617   Malang
+    -8.050    -34.900   Recife
+    -8.117    -79.033   Trujillo
+    -8.283    -35.983   Caruaru
+    -8.517    179.217   Funafuti
+    -8.550    125.583   Dili
+    -8.650    115.217   Denpasar
+    -8.767    -63.900   Porto Velho
+    -8.833     13.233   Luanda
+    -8.883    -36.500   Garanhuns
+    -9.383    179.850   Nukulaelae
+    -9.400    -40.500   Petrolina
+    -9.467    159.817   Honiara
+    -9.517    147.217   Port Moresby
+    -9.667    -35.733   Maceió
+    -9.967    -67.817   Rio Branco
+   -10.917    -37.050   Aracaju
+   -10.183    -48.333   Palmas
+   -11.667     27.467   Lubumbashi
+   -11.750     43.200   Moroni
+   -11.850    -55.650   Sinop
+   -12.050    -77.033   Lima
+   -12.450    130.833   Darwin
+   -12.767     15.733   Huambo
+   -12.783     45.233   Mamoudzou
+   -12.967     28.633   Ndola
+   -12.967    -38.483   Salvador
+   -13.167    -74.217   Ayacucho
+   -13.283   -176.183   Mata-Utu
+   -13.533    -71.967   Cusco
+   -13.833   -171.750   Apia
+   -13.983     33.783   Lilongwe
+   -14.283   -170.700   Pago Pago
+   -14.783    -39.050   Ilhéus
+   -15.417     28.283   Lusaka
+   -15.600    -56.100   Cuiabá
+   -15.783     35.000   Blantyre
+   -15.800    -47.867   Brasília
+   -15.917     -5.717   Jamestown
+   -16.400    -71.533   Arequipa
+   -16.433    179.367   Labasa
+   -16.500   -180.000   Rabi Island
+   -16.500    -68.150   La Paz
+   -16.667    -49.250   Goiânia
+   -16.933    145.783   Cairns
+   -17.533   -149.567   Papeete
+   -17.750    168.300   Port Vila
+   -17.800    -63.167   Santa Cruz de la Sierra
+   -17.850     25.867   Livingstone
+   -17.867     31.033   Harare
+   -18.133    178.450   Suva
+   -18.483    -70.333   Arica
+   -18.850    -41.933   Governador Valadares
+   -18.917    -48.283   Uberlândia
+   -18.933     47.517   Antananarivo
+   -18.967     32.633   Mutare
+   -19.050    -65.250   Sucre
+   -19.050   -169.917   Alofi
+   -19.250    146.817   Townsville
+   -19.450     29.800   Gweru
+   -19.917    -43.933   Belo Horizonte
+   -20.167     57.500   Port Louis
+   -20.167     28.583   Bulawayo
+   -20.217    -70.150   Iquique
+   -20.317    118.600   Port Hedland
+   -20.317    -40.333   Vitória
+   -20.467    -54.617   Campo Grande
+   -20.800    -49.383   São José do Rio Preto
+   -20.883     55.450   Saint-Denis
+   -21.133   -175.200   Nukuʻalofa
+   -21.167     27.517   Francistown
+   -21.183    -47.800   Ribeirão Preto
+   -21.200   -159.767   Avarua
+   -21.767    -43.350   Juiz de Fora
+   -21.783    -46.567   Poços de Caldas
+   -21.800    -48.183   Araraquara
+   -22.283    166.450   Nouméa
+   -22.317    -49.067   Bauru
+   -22.467    -68.933   Calama
+   -22.567     17.083   Windhoek
+   -22.667    -50.417   Assis
+   -22.900    -47.050   Campinas
+   -22.917    -43.200   Rio de Janeiro
+   -23.183    -45.883   São José dos Campos
+   -23.383    150.517   Rockhampton
+   -23.550    -46.633   São Paulo
+   -23.650    -70.400   Antofagasta
+   -23.900     29.450   Polokwane
+   -24.650     25.917   Gaborone
+   -24.783    -65.417   Salta
+   -25.067   -130.100   Adamstown
+   -25.283    -57.633   Asunción
+   -25.417    -49.250   Curitiba
+   -25.467     30.983   Nelspruit
+   -25.517    -54.617   Ciudad del Este
+   -25.750     28.183   Pretoria
+   -25.850     25.633   Mafikeng
+   -25.967     32.583   Maputo
+   -26.200     28.050   Johannesburg
+   -26.317     31.133   Mbabane
+   -26.417     31.167   Lobamba
+   -26.483     31.367   Manzini
+   -26.817    -65.217   San Miguel de Tucumán
+   -27.150   -109.433   Hanga Roa
+   -27.367    -70.333   Copiapó
+   -27.467    153.033   Brisbane
+   -27.483    -58.817   Corrientes
+   -27.833    -48.417   Florianópolis
+   -28.017    153.400   Gold Coast
+   -28.750     24.767   Kimberley
+   -29.067    167.967   Kingston
+   -29.117     26.217   Bloemfontein
+   -29.317     27.483   Maseru
+   -29.617     30.383   Pietermaritzburg
+   -29.883     31.050   Durban
+   -29.900    -71.250   La Serena
+   -31.417    -64.183   Córdoba
+   -31.633    -60.700   Santa Fe
+   -31.767    -52.350   Pelotas
+   -31.950    115.867   Perth
+   -31.533    -68.533   San Juan
+   -32.533    115.717   Mandurah
+   -32.850     27.433   Bhisho
+   -32.883    -68.817   Mendoza
+   -32.917    151.750   Newcastle
+   -32.950    -60.667   Rosario
+   -33.000    -71.517   Viña del Mar
+   -33.050    -71.617   Valparaíso
+   -33.450    -70.667   Santiago
+   -33.683    -53.450   Chuí
+   -33.867    151.217   Sydney
+   -33.933     18.417   Cape Town
+   -33.950     25.600   Port Elizabeth
+   -34.433    150.883   Wollongong
+   -34.600    -58.383   Buenos Aires
+   -34.883    -56.183   Montevideo
+   -34.933    138.600   Adelaide
+   -35.300    149.117   Canberra
+   -36.833    -73.050   Concepción
+   -36.833    174.733   Auckland
+   -37.067    -12.317   Edinburgh of the Seven Seas
+   -37.783    175.283   Hamilton
+   -37.817    144.967   Melbourne
+   -38.000    -57.550   Mar del Plata
+   -38.150    144.350   Geelong
+   -38.717    -62.267   Bahía Blanca
+   -38.750    -72.667   Temuco
+   -38.950    -68.050   Neuquén
+   -39.650    176.833   Hastings
+   -39.817    -73.250   Valdivia
+   -41.150    -71.300   San Carlos de Bariloche
+   -41.267    173.283   Nelson
+   -41.283    174.783   Wellington
+   -41.467    -72.933   Puerto Montt
+   -41.433    147.133   Launceston, Tasmania
+   -42.883    147.333   Hobart
+   -43.250    -65.300   Trelew
+   -43.533    172.617   Christchurch
+   -43.950    176.550   Waitangi
+   -45.400    -72.683   Puerto Aisén
+   -45.567    -72.067   Coihaique
+   -45.867    -67.483   Comodoro Rivadavia
+   -45.867    170.500   Dunedin
+   -46.417    168.350   Invercargill
+   -51.633    -69.217   Río Gallegos
+   -51.700    -57.867   Stanley
+   -53.167    -70.933   Punta Arenas
+   -54.283    -36.500   Grytviken
+   -54.800    -68.300   Ushuaia
+   -54.933    -67.617   Puerto Williams
+   -55.083    -67.083   Puerto Toro
+   -62.200    -58.967   Villa Las Estrellas
+   -63.400    -56.983   Esperanza
+   -67.567    -68.133   Rothera
