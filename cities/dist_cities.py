@@ -17,7 +17,7 @@ class City(object):
 
         """String representation of a city"""
 
-        return "[%-8d] %8.2f %8.2f" \
+        return "% 16s %8.2f %8.2f" \
                 % (self.name, self.latitude, self.longitude)
 
 def read_cities():
