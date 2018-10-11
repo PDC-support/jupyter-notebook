@@ -27,11 +27,9 @@ class Atom(object):
                 % (self.name, self.x, self.y, self.z,
                    self.resname, self.resid)
 
-def load_gmx():
+def load_gmx(gmx_root):
 
     """Load GROMACS environmental variables"""
-
-    gmx_root = "/pdc/vol/gromacs/2018.3/amd64_co7/haswell_openmpi"
 
     os.environ["GMXBIN"]   = gmx_root + "/bin"
     os.environ["GMXLDLIB"] = gmx_root + "/lib"
