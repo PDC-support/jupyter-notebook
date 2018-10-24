@@ -81,7 +81,7 @@ def get_rmsd(target, deffnm):
 
     ps = subprocess.Popen(("echo", target, target), stdout=subprocess.PIPE)
     command = "gmx_seq rms -f %s.xtc -s topol.tpr" % deffnm
-    command += " -dt 10"
+    command += " -dt 1"
     output = subprocess.check_output(command.split(), stdin=ps.stdout)
     ps.wait()
 
@@ -112,7 +112,7 @@ def get_pdb(target, deffnm):
 
     ps = subprocess.Popen(("echo", target), stdout=subprocess.PIPE)
     command = "gmx_seq trjconv -f %s.xtc -s topol.tpr -o %s.pdb" % (deffnm, deffnm)
-    command += " -dt 100 -pbc mol"
+    command += " -dt 10 -pbc mol"
     output = subprocess.check_output(command.split(), stdin=ps.stdout)
     ps.wait()
 
