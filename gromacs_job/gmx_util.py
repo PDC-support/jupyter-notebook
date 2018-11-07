@@ -36,7 +36,7 @@ def load_gmx(gmx_root):
     os.environ["GMXMAN"]   = gmx_root + "/man"
     os.environ["GMXDATA"]  = gmx_root + "/share"
 
-    os.environ["LD_LIBRARY_PATH"] = gmx_root + "/lib:" + os.environ["LD_LIBRARY_PATH"] 
+    os.environ["LIBRARY_PATH"] = gmx_root + "/lib64:" #+ os.environ["LIBRARY_PATH"] 
     os.environ["PATH"]            = gmx_root + "/bin:" + os.environ["PATH"]
     os.environ["MANPATH"]         = gmx_root + "/man:" + os.environ["MANPATH"]
 
@@ -50,7 +50,7 @@ def get_prop(prop, deffnm):
     # echo Potential | gmx_seq energy -f npt.edr
 
     ps = subprocess.Popen(("echo", prop), stdout=subprocess.PIPE)
-    command = "gmx_seq energy -f %s.edr" % deffnm
+    command = "gmx energy -f %s.edr" % deffnm
     output = subprocess.check_output(command.split(), stdin=ps.stdout)
     ps.wait()
 
@@ -80,7 +80,7 @@ def get_rmsd(target, deffnm):
     # echo Protein Protein | gmx_seq rms -f npt.xtc -s topol.tpr
 
     ps = subprocess.Popen(("echo", target, target), stdout=subprocess.PIPE)
-    command = "gmx_seq rms -f %s.xtc -s topol.tpr" % deffnm
+    command = "gmx rms -f %s.xtc -s topol.tpr" % deffnm
     command += " -dt 1"
     output = subprocess.check_output(command.split(), stdin=ps.stdout)
     ps.wait()
@@ -111,7 +111,7 @@ def get_pdb(target, deffnm):
     # echo System | gmx_seq trjconv -f npt.xtc -s topol.tpr -o npt.pdb
 
     ps = subprocess.Popen(("echo", target), stdout=subprocess.PIPE)
-    command = "gmx_seq trjconv -f %s.xtc -s topol.tpr -o %s.pdb" % (deffnm, deffnm)
+    command = "gmx trjconv -f %s.xtc -s topol.tpr -o %s.pdb" % (deffnm, deffnm)
     command += " -dt 10 -pbc mol"
     output = subprocess.check_output(command.split(), stdin=ps.stdout)
     ps.wait()
